@@ -1,0 +1,6 @@
+{
+  "name": "node_docker_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
